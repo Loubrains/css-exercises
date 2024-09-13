@@ -1,0 +1,18 @@
+.oddnumber {
+    background-color:rgb(216, 112, 120);
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fontsize24 {
+    font-size: 24px;
+}
+
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color:rgb(93, 203, 93);
+    font-weight: bold;
+}
